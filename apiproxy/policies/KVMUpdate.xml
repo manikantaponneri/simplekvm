@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="KVMUpdate" mapIdentifier="KVMupdate">
+    <DisplayName>KVMUpdate</DisplayName>
+    <Put override="true">
+        <Key>
+            <Parameter ref="request.queryparam.fruitname"/>
+        </Key>
+        <Value ref="request.queryparam.fruitvalue"/>
+    </Put>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

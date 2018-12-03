@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="GetKVM" version="SHA-512:0dcc2b4e33545d6401dcf93fdfa4f7d50e11c8f8524c357cb7a195d2041c0acfcf52e13cff2231ddc9b00f33de8fd32bf786909a7263a40ad1ce4394dcac93c3"/>
+        <VersionInfo resourceName="KVM-Misc" version="SHA-512:f36314b5a2078438d8c9f2111245cfa1d5cc3383c4be19991a888def4b990a384ef481a55fea2fd991b04b52d450f6820b0b371d44a12e0f3854654808904c2e"/>
+        <VersionInfo resourceName="KVMUpdate" version="SHA-512:93c54370f2aa7f927acba67eaeaaa94b9fbe16c59fcad624a6345e9186fe0300e9e2f9424f2ba9556edfa17df39e5bd45afe0bea3bb9a53222ed491f23ac74cf"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:1192e487c561788e75c9066fbcbb27f304bc098e5a717801c927235254f7e037acd396c416e32be02852ec3c797ee093c2f249b01250f78969fee68e2d79f510"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:904038409ca70feffc05d0e797021e29907bda69aafe4f857fe40d95f13316c009eadc1f0d9650a9633d81027ebfa138a7d1e387bbc392e359d136b50a0f6cf4"/>
+    </TargetEndpoints>
+</Manifest>

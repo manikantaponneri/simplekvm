@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="simplekvm">
+    <Basepaths>/simplekvm</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1543300135793</CreatedAt>
+    <CreatedBy>pm00507324@techmahindra.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>simplekvm</DisplayName>
+    <LastModifiedAt>1543552248702</LastModifiedAt>
+    <LastModifiedBy>pm00507324@techmahindra.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:3faf24cf2213509596c4d7458c2a6c3ccc5470718d70699842b021c47eb44f2ce4bae5b676f781c99cb1992148c2525263f2048e0596f00d5e44dcd6696cf821</ManifestVersion>
+    <Policies>
+        <Policy>GetKVM</Policy>
+        <Policy>KVM-Misc</Policy>
+        <Policy>KVMUpdate</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

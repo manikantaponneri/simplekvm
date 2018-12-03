@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="false" name="KVM-Misc" mapIdentifier="series-1">
+    <DisplayName>KVM-Misc</DisplayName>
+    <Put override="true">
+        <Key>
+            <Parameter>entity</Parameter>
+        </Key>
+        <Value>boy</Value>
+    </Put>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

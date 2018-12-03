@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="GetKVM" mapIdentifier="series-1">
+    <DisplayName>GetKVM</DisplayName>
+    <Get assignTo="request.queryparam.whoisthat">
+        <Key>
+            <Parameter>entity</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>
